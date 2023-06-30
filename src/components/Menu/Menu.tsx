@@ -12,24 +12,28 @@ interface MenuProps {
 }
 const menuItems = [
     {
-        name: 'информация',
-        href: 'https://ya.ru'
+        name: 'главная',
+        href: '/'
     },
     {
-        name: 'новости',
-        href: '#'
+        name: 'методическая копилка',
+        href: '/methods'
     },
     {
-        name: 'прайс-лист',
-        href: '#'
+        name: 'статьи',
+        href: '/articles'
     },
     {
-        name: 'магазин',
-        href: '#'
+        name: 'рабочие программы',
+        href: '/programs'
     },
     {
-        name: 'контакты',
-        href: '#'
+        name: 'полезные ссылки',
+        href: '/link'
+    },
+    {
+        name: 'обратная связь',
+        href: '/feedback'
     },
 
 ]

@@ -13,7 +13,7 @@ const GlobalStyle = () => {
         <MUIGlobalStyles styles={{
             '*': {
                 boxSizing: 'border-box',
-                textTransform: 'uppercase',
+                
 
             },
             

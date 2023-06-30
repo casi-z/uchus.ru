@@ -17,7 +17,16 @@ const Main: FC<MainProps> = ({ children }) => {
 
     return (
         <Page>
-            s
+            <S.MainScreen>
+
+                <S.MainScreenItem>
+                    Get More Done with whitepace
+                </S.MainScreenItem>
+                <S.MainScreenItem>
+                    Get More Done with whitepace
+                </S.MainScreenItem>
+
+            </S.MainScreen>
         </Page>
     )
 }

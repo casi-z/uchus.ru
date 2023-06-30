@@ -24,7 +24,8 @@ function useHeaderStyles() {
             display: 'flex',
             justifyContent: 'space-between',
             alignItems: 'center',
-            color: 'white',
+            color: theme.palette.text.primary,
+            textTransform: 'capitalize',
             [`@media screen and (max-width: ${theme.breakpoints.values.sm}px)`]: {
                 padding: 0,
             }

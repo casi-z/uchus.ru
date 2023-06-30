@@ -1,6 +1,5 @@
 import useMenuItemStyles from './MenuItem.style'
 import { ReactChild, FC } from 'react'
-import { Box } from '@mui/material'
 
 const { log } = console
 

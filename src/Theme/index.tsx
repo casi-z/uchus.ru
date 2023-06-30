@@ -18,9 +18,16 @@ const ThemeProvider: FC<ThemeProviderProps> = ({ children }) => {
 
 	const theme = useMemo(
 		() => createTheme({
-			palette: {
+            palette: {
+                text: {
+                    primary: '#fff',
+                    secondary: '#212529',
+                },
                 secondary: {
-                    main: '#ffff'
+                    light: '#FFF',
+                    main: '#043873',
+                    dark: '#043873',
+                    
                 }
             },
             
