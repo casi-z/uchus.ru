@@ -24,7 +24,7 @@ const GlobalStyle = () => {
                 fontFamily: `'PT Sans Narrow'`,
                 minWidth: '100%',
                 minHeight: '100%',
-                overflowX: 'hidden',
+
 
             },
 

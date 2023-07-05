@@ -14,10 +14,11 @@ function useHeaderStyles() {
 
     return {
         Header: styled(Box)({
+            position: 'sticky',
             top: 0,
             left: 0,
             zIndex: 1,
-            position: 'fixed',
+
             background: theme.palette.secondary.main,
             padding: sitePadding,
             width: '100%',
