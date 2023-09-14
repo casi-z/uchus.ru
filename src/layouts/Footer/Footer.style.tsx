@@ -4,7 +4,7 @@ import {
     styled,
     useTheme
 } from "@mui/material"
-import { sitePadding } from "../../Theme/GlobalStyle"
+import { sitePadding } from "../../theme/GlobalStyle"
 
 
 function useFooterStyles() {

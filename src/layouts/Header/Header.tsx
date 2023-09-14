@@ -24,15 +24,14 @@ const Header: FC<HeaderProps> = ({ children }) => {
 
         <S.Header component={'header'}>
 
-            {!mobileVersion && <Logo />}
+
 
             <Menu />
-            {!mobileVersion &&
-                <MenuItem startIcon={<LoginIcon />} sx={{ margin: 0 }} href='#'>
-                    Вход
-                </MenuItem>
-            }
 
+
+            {/*{!mobileVersion && <S.HeaderTitle component={'h1'}>*/}
+            {/*    Сайт учителя русского языка и литературы Таран Людмилы Сергеевны*/}
+            {/*</S.HeaderTitle>}*/}
 
         </S.Header>
     )

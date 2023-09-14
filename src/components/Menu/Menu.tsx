@@ -1,8 +1,8 @@
 import useMenuStyles from './Menu.style'
 import { ReactChild, FC, useState } from 'react'
 import { useMediaQuery } from '@mui/material'
-import MenuItem from '../MenuItem/MenuItem'
-import MenuBurger from '../MenuBurger/MenuBurger';
+import MenuItem from '@/components/MenuItem/MenuItem'
+import MenuBurger from '@/components/MenuBurger/MenuBurger';
 const { log } = console
 
 interface MenuProps {
@@ -20,6 +20,10 @@ const menuItems = [
         href: '/methods'
     },
     {
+        name: 'Галерея',
+        href: '/gallery'
+    },
+    {
         name: 'статьи',
         href: '/articles'
     },
@@ -29,7 +33,7 @@ const menuItems = [
     },
     {
         name: 'полезные ссылки',
-        href: '/link'
+        href: '/links'
     },
     {
         name: 'обратная связь',
@@ -52,7 +56,7 @@ const Menu: FC<MenuProps> = ({ children }) => {
                 {mobileVersion
                     ? menuItems.map((menuItem, index) =>
 
-                        <MenuItem key={index} href={menuItem.href} >
+                        <MenuItem key={index} href={`${menuItem.href}`} >
                             {menuItem.name}
                         </MenuItem>
                     )

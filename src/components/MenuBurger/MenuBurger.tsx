@@ -2,9 +2,9 @@ import useMenuBurgerStyles, * as S from './MenuBurger.style'
 import { ReactChild, FC, useState } from 'react'
 import {Button, Divider } from '@mui/material'
 import MenuIcon from '@mui/icons-material/Menu';
-import useMenuItemStyles from '../MenuItem/MenuItem.style';
-import { IMenuItem } from '../../types/types';
-import { ReactComponent as Logo } from '../../svg/Logo.svg'
+import useMenuItemStyles from '@/components/MenuItem/MenuItem.style';
+import { IMenuItem } from '@/types/types';
+import { ReactComponent as Logo } from '@/svg/Logo.svg'
 const { log } = console
 
 interface MenuBurgerProps {

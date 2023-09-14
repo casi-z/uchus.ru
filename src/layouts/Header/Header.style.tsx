@@ -6,7 +6,7 @@ import {
 
 } from "@mui/material"
 
-import { sitePadding } from '../../Theme/GlobalStyle'
+import { sitePadding } from '../../theme/GlobalStyle'
 
 function useHeaderStyles() {
 
@@ -17,12 +17,13 @@ function useHeaderStyles() {
             position: 'sticky',
             top: 0,
             left: 0,
-            zIndex: 1,
+            zIndex: 3,
 
             background: theme.palette.secondary.main,
             padding: sitePadding,
             width: '100%',
             display: 'flex',
+            flexWrap: 'wrap',
             justifyContent: 'space-between',
             alignItems: 'center',
             color: theme.palette.text.primary,
@@ -30,6 +31,14 @@ function useHeaderStyles() {
             [`@media screen and (max-width: ${theme.breakpoints.values.sm}px)`]: {
                 padding: 0,
             }
+        }),
+        HeaderTitle: styled(Box)({
+            width: '100%',
+            display: "flex",
+            justifyContent: 'center',
+            textTransform: 'none',
+            fontFamily: 'inter',
+
         })
     }
 }

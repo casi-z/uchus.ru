@@ -22,6 +22,7 @@ const ThemeProvider: FC<ThemeProviderProps> = ({ children }) => {
                 text: {
                     primary: '#fff',
                     secondary: '#212529',
+                    disabled: '#043873'
                 },
                 secondary: {
                     light: '#FFF',

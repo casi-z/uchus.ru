@@ -13,18 +13,15 @@ const GlobalStyle = () => {
         <MUIGlobalStyles styles={{
             '*': {
                 boxSizing: 'border-box',
-                
 
             },
             
 
             'html, body, #root': {
-                background: `url(${Background})`,
                 scrollBehavior: 'smooth',
                 fontFamily: `'PT Sans Narrow'`,
                 minWidth: '100%',
                 minHeight: '100%',
-
 
             },
 

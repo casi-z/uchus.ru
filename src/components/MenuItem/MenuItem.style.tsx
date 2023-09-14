@@ -12,12 +12,12 @@ function useMenuItemStyles() {
     return {
         MenuItem: styled(Button)({
             fontFamily: `sans-serif`,
-            textTransform: 'capitalize',
+            textTransform: 'uppercase',
             boxSizing: 'border-box',
             borderRadius: '0',
             whitespace: 'nowrap',
-            paddingTop: '2%',
-            paddingBottom: '2%',
+            paddingTop: '3%',
+            paddingBottom: '3%',
             color: theme.palette.text.primary,
             
 
