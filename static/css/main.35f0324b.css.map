@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.35f0324b.css","mappings":"AAAA,wBACI,EACI,qBACJ,CACJ","sources":["components/Cursor/Cursor.css"],"sourcesContent":["@media(min-width:990px){\r\n    *{\r\n        cursor: none!important;\r\n    }\r\n}"],"names":[],"sourceRoot":""}
