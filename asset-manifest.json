@@ -1,19 +1,41 @@
 {
   "files": {
     "main.css": "/uchus.ru/static/css/main.35f0324b.css",
-    "main.js": "/uchus.ru/static/js/main.570f876f.js",
+    "main.js": "/uchus.ru/static/js/main.20eada27.js",
+    "static/media/80e4f91a-2fb1-441b-8752-c284faf03ddc.jfif": "/uchus.ru/static/media/80e4f91a-2fb1-441b-8752-c284faf03ddc.300b0a347bd3592b3cc7.jfif",
+    "static/media/9702918d-1123-4693-8a9f-5e925ad78131.jfif": "/uchus.ru/static/media/9702918d-1123-4693-8a9f-5e925ad78131.0fb65cd38a2b834f05ea.jfif",
+    "static/media/0ba55399-fbe9-4f9a-b6e7-7419bae9a28d.jfif": "/uchus.ru/static/media/0ba55399-fbe9-4f9a-b6e7-7419bae9a28d.d0a8914f876b98df1ec4.jfif",
+    "static/media/ea2fb003-2291-4683-9ba6-68a338b66e43.jfif": "/uchus.ru/static/media/ea2fb003-2291-4683-9ba6-68a338b66e43.d0a8914f876b98df1ec4.jfif",
+    "static/media/9c9155df-6afe-4ae2-956c-67daa30cee0d.jfif": "/uchus.ru/static/media/9c9155df-6afe-4ae2-956c-67daa30cee0d.2a6f8179a1d3cfd1a376.jfif",
+    "static/media/3.jpeg": "/uchus.ru/static/media/3.5b1e94b8cc1a461467c0.jpeg",
+    "static/media/5aa3080c-dae8-40ba-b0a0-98935f7e5a81.jfif": "/uchus.ru/static/media/5aa3080c-dae8-40ba-b0a0-98935f7e5a81.5b1e94b8cc1a461467c0.jfif",
+    "static/media/2.jpeg": "/uchus.ru/static/media/2.d339d730f2a53276ad3f.jpeg",
+    "static/media/bd882f64-a1fb-4cdb-b77f-9db1742417b2.jfif": "/uchus.ru/static/media/bd882f64-a1fb-4cdb-b77f-9db1742417b2.6ef28616edc7f3c12f8d.jfif",
+    "static/media/1c5e4a7f-14fa-47d1-8a22-b4ccbbcaf773.jfif": "/uchus.ru/static/media/1c5e4a7f-14fa-47d1-8a22-b4ccbbcaf773.05c0befff3082d58f0b8.jfif",
+    "static/media/9de9e5f7-bf7c-43f0-a516-da7db4212e9e.jfif": "/uchus.ru/static/media/9de9e5f7-bf7c-43f0-a516-da7db4212e9e.0c7499d97e4d7cd1cb89.jfif",
+    "static/media/2ed10e2e-fbda-49a4-8a24-3dd0ec362d6c.jfif": "/uchus.ru/static/media/2ed10e2e-fbda-49a4-8a24-3dd0ec362d6c.2039c31d5c173b8054cf.jfif",
+    "static/media/1.jpeg": "/uchus.ru/static/media/1.9cc2b289207b8794d52f.jpeg",
+    "static/media/82f51f8f-8465-4c9d-be01-1ac8a9ccb504.jfif": "/uchus.ru/static/media/82f51f8f-8465-4c9d-be01-1ac8a9ccb504.cee9544f6bf03d55faef.jfif",
+    "static/media/84aad094-706a-42e1-b993-63b7307dd916.jfif": "/uchus.ru/static/media/84aad094-706a-42e1-b993-63b7307dd916.b26cd68de8b248b85d90.jfif",
     "static/media/my_photo.jpeg": "/uchus.ru/static/media/my_photo.75ee6eb5d37caed59ca1.jpeg",
+    "static/media/15cb8cb8-8fe8-4440-b63e-fda0708172d0.jfif": "/uchus.ru/static/media/15cb8cb8-8fe8-4440-b63e-fda0708172d0.2a257fe1f5221cf82cdc.jfif",
+    "static/media/ba288094-5e1c-4a1e-b219-aea2d978843f.jfif": "/uchus.ru/static/media/ba288094-5e1c-4a1e-b219-aea2d978843f.e2cb87fa0323bc1de9cf.jfif",
+    "static/media/f05c51d5-67ef-4b2f-b91e-ef2a11b5d93f.jfif": "/uchus.ru/static/media/f05c51d5-67ef-4b2f-b91e-ef2a11b5d93f.d36ed3c939fdcf2776f7.jfif",
+    "static/media/0.jpeg": "/uchus.ru/static/media/0.ccba4035d5cd892c2e35.jpeg",
     "static/media/main-background.png": "/uchus.ru/static/media/main-background.7ff80947fd9dd5ed07d3.png",
+    "static/media/b4c278ae-a4f3-4c5e-876b-c1e9bd99add1.jfif": "/uchus.ru/static/media/b4c278ae-a4f3-4c5e-876b-c1e9bd99add1.c5bb19b5d444a226c3e6.jfif",
     "static/media/pushkin.jpg": "/uchus.ru/static/media/pushkin.a0e5fa4aa17b0e79a835.jpg",
+    "static/media/80fa950a-b619-4aa2-b292-3bccf50cae62.jfif": "/uchus.ru/static/media/80fa950a-b619-4aa2-b292-3bccf50cae62.025d4d82eb011b1c20d3.jfif",
+    "static/media/a03f0617-297b-4094-8e24-3f707baa0c42.jfif": "/uchus.ru/static/media/a03f0617-297b-4094-8e24-3f707baa0c42.a115b19617a677076edf.jfif",
     "static/media/Border.svg": "/uchus.ru/static/media/Border.3bd0804dc4f4eb22449619776a2d2609.svg",
     "static/media/Logo.svg": "/uchus.ru/static/media/Logo.f303cda025f081e58a0e577e47875886.svg",
     "index.html": "/uchus.ru/index.html",
     "static/media/arrow.svg": "/uchus.ru/static/media/arrow.e84038e02f40624b1bccf35c99f8e6e6.svg",
     "main.35f0324b.css.map": "/uchus.ru/static/css/main.35f0324b.css.map",
-    "main.570f876f.js.map": "/uchus.ru/static/js/main.570f876f.js.map"
+    "main.20eada27.js.map": "/uchus.ru/static/js/main.20eada27.js.map"
   },
   "entrypoints": [
     "static/css/main.35f0324b.css",
-    "static/js/main.570f876f.js"
+    "static/js/main.20eada27.js"
   ]
 }
