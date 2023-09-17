@@ -15,6 +15,7 @@ function App() {
 
     return (
         <GlobalContext.Provider value={null}>
+
             <BrowserRouter>
                 <Routes>
                     <Route path='/' element={<Main />} />

@@ -1,6 +1,7 @@
 {
   "name": "casi-z-webapp-pattern",
   "version": "0.1.0",
+  "homepage": "https://casi-z.github.io/uchus.ru/",
   "private": true,
   "dependencies": {
     "@craco/craco": "^7.1.0",
@@ -19,6 +20,7 @@
     "@types/react-dom": "^18.0.10",
     "bootstrap": "^5.3.0-alpha1",
     "craco": "^0.0.3",
+    "gh-pages": "^6.0.0",
     "node-create": "^2.0.1",
     "node-sass": "^8.0.0",
     "react": "^18.2.0",
@@ -34,7 +36,9 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "craco eject"
+    "eject": "craco eject",
+    "predeploy": "pnpm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
