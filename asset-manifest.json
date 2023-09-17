@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.35f0324b.css",
-    "main.js": "/static/js/main.270478f3.js",
-    "static/media/my_photo.jpeg": "/static/media/my_photo.75ee6eb5d37caed59ca1.jpeg",
-    "static/media/main-background.png": "/static/media/main-background.7ff80947fd9dd5ed07d3.png",
-    "static/media/pushkin.jpg": "/static/media/pushkin.a0e5fa4aa17b0e79a835.jpg",
-    "static/media/Border.svg": "/static/media/Border.3bd0804dc4f4eb22449619776a2d2609.svg",
-    "static/media/Logo.svg": "/static/media/Logo.f303cda025f081e58a0e577e47875886.svg",
-    "index.html": "/index.html",
-    "static/media/arrow.svg": "/static/media/arrow.e84038e02f40624b1bccf35c99f8e6e6.svg",
-    "main.35f0324b.css.map": "/static/css/main.35f0324b.css.map",
-    "main.270478f3.js.map": "/static/js/main.270478f3.js.map"
+    "main.css": "/uchus.ru/static/css/main.35f0324b.css",
+    "main.js": "/uchus.ru/static/js/main.570f876f.js",
+    "static/media/my_photo.jpeg": "/uchus.ru/static/media/my_photo.75ee6eb5d37caed59ca1.jpeg",
+    "static/media/main-background.png": "/uchus.ru/static/media/main-background.7ff80947fd9dd5ed07d3.png",
+    "static/media/pushkin.jpg": "/uchus.ru/static/media/pushkin.a0e5fa4aa17b0e79a835.jpg",
+    "static/media/Border.svg": "/uchus.ru/static/media/Border.3bd0804dc4f4eb22449619776a2d2609.svg",
+    "static/media/Logo.svg": "/uchus.ru/static/media/Logo.f303cda025f081e58a0e577e47875886.svg",
+    "index.html": "/uchus.ru/index.html",
+    "static/media/arrow.svg": "/uchus.ru/static/media/arrow.e84038e02f40624b1bccf35c99f8e6e6.svg",
+    "main.35f0324b.css.map": "/uchus.ru/static/css/main.35f0324b.css.map",
+    "main.570f876f.js.map": "/uchus.ru/static/js/main.570f876f.js.map"
   },
   "entrypoints": [
     "static/css/main.35f0324b.css",
-    "static/js/main.270478f3.js"
+    "static/js/main.570f876f.js"
   ]
 }
