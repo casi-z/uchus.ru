@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/uchus.ru/static/css/main.35f0324b.css",
-    "main.js": "/uchus.ru/static/js/main.fde02614.js",
+    "main.js": "/uchus.ru/static/js/main.541d0739.js",
     "static/media/80e4f91a-2fb1-441b-8752-c284faf03ddc.jfif": "/uchus.ru/static/media/80e4f91a-2fb1-441b-8752-c284faf03ddc.300b0a347bd3592b3cc7.jfif",
     "static/media/9702918d-1123-4693-8a9f-5e925ad78131.jfif": "/uchus.ru/static/media/9702918d-1123-4693-8a9f-5e925ad78131.0fb65cd38a2b834f05ea.jfif",
     "static/media/0ba55399-fbe9-4f9a-b6e7-7419bae9a28d.jfif": "/uchus.ru/static/media/0ba55399-fbe9-4f9a-b6e7-7419bae9a28d.d0a8914f876b98df1ec4.jfif",
@@ -29,10 +29,10 @@
     "static/media/a03f0617-297b-4094-8e24-3f707baa0c42.jfif": "/uchus.ru/static/media/a03f0617-297b-4094-8e24-3f707baa0c42.a115b19617a677076edf.jfif",
     "index.html": "/uchus.ru/index.html",
     "main.35f0324b.css.map": "/uchus.ru/static/css/main.35f0324b.css.map",
-    "main.fde02614.js.map": "/uchus.ru/static/js/main.fde02614.js.map"
+    "main.541d0739.js.map": "/uchus.ru/static/js/main.541d0739.js.map"
   },
   "entrypoints": [
     "static/css/main.35f0324b.css",
-    "static/js/main.fde02614.js"
+    "static/js/main.541d0739.js"
   ]
 }
